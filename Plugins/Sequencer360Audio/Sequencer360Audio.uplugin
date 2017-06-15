@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Sequencer360Audio",
+	"Description": "Facebook 360 audio plugin (TBAudioEngine by Two Big Ears) for sequencer integration.",
+	"Category": "Audio",
+	"CreatedBy": "Paul Wagner",
+	"CreatedByURL": "http://iki.fi/paul.wagner",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false
+}

@@ -28,3 +28,7 @@ At least version 0.9.95 might fail to find its own DLL in packaged builds. You c
 PublicDelayLoadDLLs.Add("TBAudioEngine.dll");
 ```
 Alternatively, after packaging, you can also just move TBAudioEngine.dll from YourGame/Plugins/TBAudioEngine/Binaries/Win64 to YourGame/Binaries/Win64.
+
+### UE versions
+
+The plugin is created using UE 4.15. It is in itself fully compatible with 4.16, but it seems that at least version 0.9.95 of the Facebook 360 audio plugin does not package with 4.16!
